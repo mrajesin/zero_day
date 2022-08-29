@@ -1,1 +1,0 @@
-uname - print system information
